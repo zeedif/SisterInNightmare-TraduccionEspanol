@@ -1,0 +1,25 @@
+# Solo se versionan los archivos que toca la traducción; el resto del juego queda fuera
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/data/
+!/img/
+!/js/
+!/movies/
+
+/img/*
+!/img/pictures/
+!/img/system/
+/img/pictures/*
+!/img/pictures/Night?.png_
+!/img/pictures/tutorial_*.png_
+/img/system/*
+!/img/system/GameOver.png_
+
+/js/*
+!/js/plugins.js
+!/js/rmmz_windows.js
+
+/movies/*
+!/movies/title.mp4
