@@ -3042,7 +3042,7 @@ Window_Options.prototype.isVolumeSymbol = function(symbol) {
 };
 
 Window_Options.prototype.booleanStatusText = function(value) {
-    return value ? "ON" : "OFF";
+    return value ? "SÍ" : "NO";
 };
 
 Window_Options.prototype.volumeStatusText = function(value) {
